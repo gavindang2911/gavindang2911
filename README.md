@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an aspiring Software Engineer currently pursuing a Bachelor's degree in Computing Science
+Software Engineer
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
